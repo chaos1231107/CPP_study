@@ -7,7 +7,10 @@
 ### 2) FOTLAN, COBOL, BASIC --> High Level Language(고급 언어, 초보적인 수준의 고급언어)
 ![image](https://github.com/user-attachments/assets/91f42389-dc3b-4334-b8d1-da65122b344f)
 
-## Porcedure Programming Language VS Object Programming Language
+## Porcedural Programming Language VS Object Programming Language
+### Procedural Programming Language(절차지향 언어) --> ex) Pascal, C
+![image](https://github.com/user-attachments/assets/3aceb32d-f299-4cd7-a137-f8eaf1e085d3)
+
 ## 객체
 ### 변수들과 참고덩어리로 이루어진 소프트웨어 덩어리
 
