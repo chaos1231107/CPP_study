@@ -3,6 +3,10 @@
 
 ![image](https://github.com/user-attachments/assets/964ac728-be33-4e22-bdc6-a4642c57d678)
 
+
+![image](https://github.com/user-attachments/assets/360fb60e-3dfc-47cc-9e29-2aca27d7a584)
+
+
 ## Instance Variable (인스턴트 변수)
 ### 객체의 변수나 함수
 
