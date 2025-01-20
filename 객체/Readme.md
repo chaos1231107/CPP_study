@@ -9,6 +9,7 @@
 
 ## Porcedural Programming Language VS Object Programming Language
 ### Procedural Programming Language(절차지향 언어) --> ex) Pascal, C
+#### Procedural Programming(절차지향 프로그래밍) --> 절차, 함수(function)을 중심으로 돌아감
 ![image](https://github.com/user-attachments/assets/3aceb32d-f299-4cd7-a137-f8eaf1e085d3)
 
 ## 객체
